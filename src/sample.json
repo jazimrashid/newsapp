@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Prince Harry says he was bigoted before he met Meghan",
+      "description": "In interviews and his book Spare, Prince Harry recalls in detail his own past racism scandals.",
+      "url": "http://www.bbc.co.uk/news/uk-64189396",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15B46/production/_128220988_mediaitem128220987.jpg",
+      "publishedAt": "2023-01-07T07:37:19.6813479Z",
+      "content": "Prince Harry has said he was \"bigoted\" before meeting Meghan Markle, in an interview with US broadcaster CBS.\r\nHe also said he was \"naive\" about how her ethnicity would affect media coverage of their… [+4934 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Trump sued for wrongful death on second anniversary of January 6 riot",
+      "description": "The lawsuit comes as Washington marks the second anniversary of the Capitol riot.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64176567",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16578/production/_128221519_gettyimages-1453537073.jpg",
+      "publishedAt": "2023-01-07T06:52:18.3689051Z",
+      "content": "The partner of a US Capitol Police officer who died a day after the 6 January 2021 riot has sued Donald Trump for wrongful death. \r\nThe lawsuit filed on Thursday says Mr Trump \"intentionally riled up… [+3258 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Kevin McCarthy says he has votes to become US House Speaker",
+      "description": "Despite losing 13 votes, the Republican says he will prevail when lawmakers reconvene on Friday night.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64193932",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5DEA/production/_128224042_541d79b79f689f8af2abf7a838a31f11349f248e0_0_2821_19731000x699.jpg",
+      "publishedAt": "2023-01-07T06:37:18.3720685Z",
+      "content": "Media caption, Watch: The unusual moments from a chaotic week in Congress\r\nKevin McCarthy says he now has enough support to become Speaker of the US House of Representatives, amid the longest such co… [+2983 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Heated exchange between McCarthy and Gaetz annotated",
+      "description": "Tensions flared after 14 rounds of voting and another disappointment for Kevin McCarthy.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64195940",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B9B6/production/_128224574_p0dts27s.jpg",
+      "publishedAt": "2023-01-07T05:22:14.4474025Z",
+      "content": "This was the dramatic moment when tensions flared on the floor of the House of Representatives after 14 rounds of voting for a new Speaker.\r\nWe've annotated the video so you can follow who's who as K… [+55 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Real Housewives star Jen Shah sentenced to over six years in prison",
+      "description": "Jen Shah pleaded guilty in July for her role in a telemarketing fraud that targeted vulnerable people.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64190355",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/634E/production/_128222452_gettyimages-1454684274.jpg",
+      "publishedAt": "2023-01-07T02:07:27.180477Z",
+      "content": "Jen Shah, a Real Housewives of Salt Lake City star, was sentenced to six and a half years in prison on Friday. \r\nThe TV actor pleaded guilty in July for conspiracy to commit wire fraud for her involv… [+1781 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Newport News: Boy aged six detained after shooting teacher in US",
+      "description": "The teacher is left with life-threatening injuries after the shooting in the state of Virginia.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64194407",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/942C/production/_128223973_gettyimages-1169071737.jpg",
+      "publishedAt": "2023-01-07T02:07:26.1026198Z",
+      "content": "A six-year-old boy has been detained by police after shooting a teacher in the US state of Virginia, officers say. \r\nThe shooting happened shortly after 14:00 local time (19:00 GMT) at Richneck Eleme… [+2054 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "The Swiss ski resort with no snow",
+      "description": "At the Torgon ski resort in the Valais Alps it's hikers rather than skiers on the slopes.",
+      "url": "http://www.bbc.co.uk/news/world-europe-64190150",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A7A0/production/_128221924_p0dtnrdz.jpg",
+      "publishedAt": "2023-01-07T02:07:24.4936457Z",
+      "content": "WATCH: William and Harry, a life in the spotlight. Video, 00:01:36WATCH: William and Harry, a life in the spotlight"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Prince Harry makes sensational claims in memoir Spare",
+      "description": "Harry claims William physically attacked him, and says he urged his father not to marry Camilla.",
+      "url": "http://www.bbc.co.uk/news/uk-64179164",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14ADD/production/_128210748_williamandharry.png",
+      "publishedAt": "2023-01-07T02:07:23.1658507Z",
+      "content": "Media caption, WATCH: William and Harry, a life in the spotlight\r\nA stream of sensational claims and accusations from Prince Harry's autobiography, Spare, have been leaked. \r\nThe book outlines grieva… [+9512 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "What has Kevin McCarthy given up, and at what price?",
+      "description": "The would-be Speaker has offered guarantees to the rebels. But every concession comes with a cost.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64194129",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9D32/production/_128224204_gavel.jpg",
+      "publishedAt": "2023-01-07T01:52:22.9622277Z",
+      "content": "Media caption, Watch: The unusual moments from a chaotic week in Congress\r\nThe fourth day of voting for Speaker of the House has left Kevin McCarthy on the brink of victory. Of the 20 Republicans who… [+5527 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Widespread damage to California as residents brace for more storms",
+      "description": "The forecast is for more ominous weather for the weekend with heavy snow and rain in the mix.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-64192850",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FC6E/production/_128222646_screenshot2023-01-06at10.16.23am.png",
+      "publishedAt": "2023-01-06T20:07:20.4447374Z",
+      "content": "Media caption, Watch: California hit with record-breaking rain and flooding\r\nA deadly storm has inflicted widespread damage in northern California dumping record-breaking rain and snow along the coas… [+2883 chars]"
+    }
+  ]
+}
